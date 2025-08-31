@@ -16,6 +16,6 @@ See https://www.hackster.io/cdwilson/automatically-activate-zephyr-build-environ
 
 If everything worked correctly, you should see output like the following:
 ```
-direnv: loading ~/workspace/cgnd/clients/hackster/hello-nrfcloud/.envrc
+direnv: loading ~/path/to/your/workspace/.envrc
 direnv: export +GIT_EXEC_PATH +GIT_TEMPLATE_DIR +ZEPHYR_BASE +ZEPHYR_SDK_INSTALL_DIR +ZEPHYR_TOOLCHAIN_VARIANT ~PATH
 ```
